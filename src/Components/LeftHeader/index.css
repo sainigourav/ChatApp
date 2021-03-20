@@ -1,0 +1,12 @@
+#header_one{
+    background-color: #0a9019;
+    border-right: 2px solid #fff;
+    height: 80px;
+    color: #fff;
+    width: calc(100% - 2px);
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}

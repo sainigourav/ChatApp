@@ -1,0 +1,28 @@
+.user{
+    display: flex;
+    background-color: #ffeded8a;
+    padding: 5px 0;
+    font-size: 20px;
+    border-bottom: 1px solid grey;
+    align-items: center;
+    box-shadow: 6px 5px 10px -5px black;
+    margin: 5px 0;
+    border-radius: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+.user:hover{
+    background-color: #6f64648f;
+    color: #fff;
+}
+.selected {
+    background-color: rgb(97,204,120,90%);
+    color: #fff;
+}
+
+.user > img{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+}

@@ -1,0 +1,15 @@
+#content_left{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    color: #fff;
+    padding-left: 20px;
+    font-weight: bold;
+    align-items: center;
+}
+#content_left > img{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+}

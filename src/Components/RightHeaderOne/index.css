@@ -1,0 +1,11 @@
+#inner_header > #content_left > img{
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+#inner_header{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}

@@ -1,0 +1,42 @@
+#editor{
+    background-color: rgba(255, 0, 0, 0);
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#editor_hidden{
+    background-color: #ddffe3d9;
+    z-index: 1;
+}
+#editor > div > #emoji{
+    position: relative;
+    left: 43px;
+    color: #808080;
+}
+#editor > svg{
+    color: #927575;
+    position: relative;
+    right: 80px;
+    margin-left: 10px;
+}
+#editor > #clip{
+    transform: rotate(319deg);
+}
+#editor > #voice{
+    color: #fff;
+    position: relative;
+    right: 30px;
+    top: -3px;
+    padding: 3px;
+    background-color: #27922b;
+    border-radius: 50%
+}
+#editor > #send{
+    color: #27922b;
+    position: relative;
+    right: 50px;
+    background-color: #fff;
+    border-radius: 50%
+}

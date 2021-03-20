@@ -1,0 +1,18 @@
+.msg_r_out{
+    background-color: #DCF8C6;
+    padding: 10px 30px 10px 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.msg_r_out > span{
+    font-size: 12px;
+    position: relative;
+    top: 5px;
+    color: grey;
+}
+.msg_r_out > svg{
+    font-size: 12px;
+    position: relative;
+    top: 10px;
+    color: #409eff;
+}

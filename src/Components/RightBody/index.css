@@ -1,0 +1,4 @@
+#body_two{
+    background-image: url("../Images/chat.png");
+    height: calc(100% - 80px);
+}

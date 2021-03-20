@@ -1,0 +1,19 @@
+.msg_left{
+    padding: 10px;
+    align-items: flex-start;
+    flex-direction: column;
+    width: fit-content;
+    margin: 10px 30px;
+}
+.msg_l_out{
+    background-color: #fff;
+    padding: 10px 30px 10px 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.msg_l_out > span{
+    font-size: 12px;
+    position: relative;
+    top: 5px;
+    color: grey;
+}

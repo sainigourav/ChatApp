@@ -1,0 +1,7 @@
+.msg_right{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px 30px;
+}

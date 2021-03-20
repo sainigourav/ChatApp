@@ -1,0 +1,9 @@
+#body_one{
+    height: calc(100% - 81px);
+    background-image: url("../Images/text.jpg");
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    font-family: 'Roboto', sans-serif;
+}
