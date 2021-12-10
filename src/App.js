@@ -10,7 +10,7 @@ class App extends React.Component {
 
   state = {
     value:"",
-    user:"User 1",
+    user:"John Doe",
     AllMsg:[]
   }
 
