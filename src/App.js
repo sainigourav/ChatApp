@@ -3,7 +3,7 @@ import LeftContainer from './Components/LeftContainer';
 import RightContainer from './Components/RightContainer';
 import "./style.css";
 
-var User=["John Doe","Alexender","Michel Jack","Brownie"];
+var User=["John Doe","Alexender","Sergeo Martin","Brownie"];
 
 class App extends React.Component {
 
